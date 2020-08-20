@@ -5,7 +5,9 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+		"lint": "vue-cli-service lint",
+		"start": "vue-cli-service serve",
+		"deploy": "gcloud app deploy --project side-hustle-287019"
   },
   "dependencies": {
     "@sendgrid/mail": "^7.2.4",
