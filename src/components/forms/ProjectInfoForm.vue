@@ -30,6 +30,7 @@
     <div class='px-2 py-2'>
       <v-textarea
         label="Description"
+        v-model="project.Description"
         name="project.Description"
       ></v-textarea>
     </div>

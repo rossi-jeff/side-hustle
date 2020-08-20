@@ -5,7 +5,7 @@
 
       <p>My name is Jeff Rossi and I have been solving problems with code for the better part of my life. Being from Gen X I have a strong work ethic and always strive to put my best foot forward. Over my 20+ years of experience I’ve worked with most of the common web development technologies, <b>PHP</b>, <b>Ruby on Rails</b>, <b>HTML</b>, <b>CSS</b>, <b>Javascript</b>, <b>Typescript</b>, and most recently <b>Node.js</b> .</p>
 
-      <p>My last place of employment, <b>InTouch GPS</b> of Lakeland FL, had me on the payroll for just shy of 10 years. At the end of my tenure there I was writing Node.js code hosted on <b>Amazon Web Services</b> for about 2 years. Prior to that I built and maintained two Rails Applications, for several years as a sole developer. <b>InTouch</b> eventually built a larger team and later merged with <b>GPS Trackit</b> of Atlanta GA.</p>
+      <p>My last place of employment, <b>InTouch GPS</b> of Lakeland FL, had me on the payroll for just shy of 10 years. At the end of my tenure there I was writing <b>Node.js</b> code hosted on <b>Amazon Web Services</b> for about 2 years. Prior to that I built and maintained two Rails Applications, for several years as a sole developer. <b>InTouch</b> eventually built a larger team and later merged with <b>GPS Trackit</b> of Atlanta GA.</p>
 
       <p>Before <b>InTouch</b> I worked at the now defunct <b>Asset Motion</b> which was also doing GPS tracking for fleet management. When the company dissolved someone at <b>Numerex</b>, who at the time hosted both <b>Asset Motion</b> and <b>InTouch GPS</b>, put me in touch with the fine folks at <b>InTouch</b>.</p>
 
